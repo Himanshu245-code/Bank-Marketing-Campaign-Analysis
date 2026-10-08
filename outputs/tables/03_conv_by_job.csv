@@ -1,0 +1,13 @@
+job,customers,subscribers,conversion_rate,lift
+student,875,275,0.3143,2.7896
+retired,1718,434,0.2526,2.2423
+unemployed,1014,144,0.142,1.2605
+admin.,10419,1351,0.1297,1.1509
+management,2924,328,0.1122,0.9957
+unknown,330,37,0.1121,0.9952
+technician,6739,730,0.1083,0.9615
+self-employed,1421,149,0.1049,0.9307
+housemaid,1060,106,0.1,0.8876
+entrepreneur,1456,124,0.0852,0.7559
+services,3967,323,0.0814,0.7227
+blue-collar,9253,638,0.069,0.612

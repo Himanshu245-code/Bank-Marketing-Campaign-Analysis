@@ -1,0 +1,6 @@
+day_of_week,customers,subscribers,conversion_rate,lift
+mon,8512,847,0.0995,0.8832
+tue,8086,953,0.1179,1.0461
+wed,8134,949,0.1167,1.0356
+thu,8618,1044,0.1211,1.0753
+fri,7826,846,0.1081,0.9595

@@ -1,0 +1,23 @@
+age_band,job_group,customers,subscribers,conversion_rate,lift
+65+,Retired,559,264,0.4723,4.1919
+<25,Student,378,143,0.3783,3.3579
+25-34,Student,433,121,0.2794,2.4804
+<25,Office & professional,285,59,0.207,1.8375
+55-64,Retired,877,150,0.171,1.5181
+25-34,Unemployed,327,53,0.1621,1.4386
+55-64,Office & professional,1356,201,0.1482,1.3157
+25-34,Office & professional,7537,1005,0.1333,1.1836
+45-54,Unemployed,241,27,0.112,0.9944
+<25,Blue-collar & services,355,39,0.1099,0.9751
+35-44,Unemployed,350,38,0.1086,0.9637
+25-34,Self-employed,809,87,0.1075,0.9545
+45-54,Office & professional,3995,423,0.1059,0.9398
+35-44,Office & professional,6871,702,0.1022,0.9069
+55-64,Self-employed,261,26,0.0996,0.8842
+35-44,Self-employed,1039,102,0.0982,0.8714
+25-34,Blue-collar & services,4512,390,0.0864,0.7672
+55-64,Blue-collar & services,929,79,0.085,0.7548
+45-54,Retired,224,16,0.0714,0.634
+45-54,Self-employed,737,51,0.0692,0.6142
+45-54,Blue-collar & services,3394,229,0.0675,0.5989
+35-44,Blue-collar & services,5046,310,0.0614,0.5453

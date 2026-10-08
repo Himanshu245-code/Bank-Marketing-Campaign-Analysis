@@ -1,0 +1,5 @@
+marital,customers,subscribers,conversion_rate,lift
+unknown,80,12,0.15,1.3314
+single,11564,1620,0.1401,1.2434
+divorced,4611,476,0.1032,0.9163
+married,24921,2531,0.1016,0.9015

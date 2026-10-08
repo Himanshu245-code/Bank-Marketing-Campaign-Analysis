@@ -1,0 +1,4 @@
+housing,customers,subscribers,conversion_rate,lift
+yes,21571,2507,0.1162,1.0316
+no,18615,2025,0.1088,0.9656
+unknown,990,107,0.1081,0.9593

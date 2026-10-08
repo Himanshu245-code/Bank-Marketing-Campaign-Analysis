@@ -1,0 +1,3 @@
+strategy,calls_pct,subscribers_captured_pct,profit_full_base_eur,calls_full_base,profit_per_call_eur
+Call everyone (baseline),100.0,100.0,52194.93,41176.0,1.27
+Call top-scored customers only (model cut-off),19.29,66.49,229027.75,7944.0,28.83

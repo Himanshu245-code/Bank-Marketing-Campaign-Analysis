@@ -1,0 +1,7 @@
+step,detail,rows_after
+Load raw file,bank-additional-full.csv,41188
+Rename columns,dots -> underscores; y -> subscribed (1 = yes),41188
+Drop exact duplicates,12 rows removed,41176
+pdays sentinel,999 -> prev_contacted flag + pdays_clean (NaN),41176
+Cap campaign,"campaign_capped = min(campaign, 10); affects 2.11% of rows",41176
+Engineered features,"age_band, job_group, has_loan_any, month_num, duration_band",41176

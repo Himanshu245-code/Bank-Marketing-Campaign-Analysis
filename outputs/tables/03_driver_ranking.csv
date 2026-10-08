@@ -1,0 +1,14 @@
+driver,best_segment,best_rate,worst_segment,worst_rate,spread_pp
+poutcome,success,0.651,nonexistent,0.088,56.281
+prev_contacted,1,0.638,0,0.093,54.57
+month,mar,0.505,may,0.064,44.114
+age_band,65+,0.473,45-54,0.086,38.639
+job,student,0.314,blue-collar,0.069,24.534
+contact,cellular,0.147,telephone,0.052,9.506
+campaign_capped,1,0.13,10,0.036,9.472
+default,no,0.129,unknown,0.052,7.727
+education,unknown,0.145,basic.9y,0.078,6.684
+marital,single,0.14,married,0.102,3.853
+day_of_week,thu,0.121,mon,0.1,2.164
+housing,yes,0.116,unknown,0.108,0.814
+loan,no,0.113,unknown,0.108,0.533

@@ -1,0 +1,3 @@
+model,test_roc_auc
+Gradient Boosting - usable (no duration),0.8121
+Gradient Boosting - WITH duration (leakage),0.9513

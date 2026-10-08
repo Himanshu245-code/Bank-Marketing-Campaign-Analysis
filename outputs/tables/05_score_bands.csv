@@ -1,0 +1,5 @@
+score_band,customers,conversion_rate,min_score,lift,recommended_action
+A (top 10%),823,0.531,0.321,4.712,"Call first, senior agents"
+B (next 20%),1647,0.152,0.074,1.353,"Call, standard script"
+C (next 30%),2471,0.049,0.05,0.431,Call only if capacity allows
+D (bottom 40%),3295,0.036,0.018,0.323,Do not call / use low-cost channel

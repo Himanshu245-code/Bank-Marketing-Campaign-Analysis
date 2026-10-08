@@ -1,0 +1,4 @@
+loan,customers,subscribers,conversion_rate,lift
+no,33938,3849,0.1134,1.0067
+yes,6248,683,0.1093,0.9703
+unknown,990,107,0.1081,0.9593

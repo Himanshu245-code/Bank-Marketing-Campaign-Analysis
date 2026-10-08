@@ -1,0 +1,22 @@
+column,group,type,description
+age,Customer,numeric,Age in years
+job,Customer,categorical,Type of job (12 categories)
+marital,Customer,categorical,Marital status
+education,Customer,categorical,Education level
+default,Customer,categorical,Has credit in default? (yes / no / unknown)
+housing,Customer,categorical,Has housing loan?
+loan,Customer,categorical,Has personal loan?
+contact,Current campaign,categorical,Contact channel: cellular / telephone
+month,Current campaign,categorical,Month of last contact
+day_of_week,Current campaign,categorical,Weekday of last contact
+duration,Current campaign,numeric,Last call duration in seconds (only known AFTER the call - leakage risk)
+campaign,Current campaign,numeric,Number of contacts to this client during this campaign
+pdays,Previous campaign,numeric,Days since last contact in a previous campaign (999 = never contacted)
+previous,Previous campaign,numeric,Number of contacts before this campaign
+poutcome,Previous campaign,categorical,Outcome of the previous campaign
+emp.var.rate,Macro-economy,numeric,Employment variation rate (quarterly)
+cons.price.idx,Macro-economy,numeric,Consumer price index (monthly)
+cons.conf.idx,Macro-economy,numeric,Consumer confidence index (monthly)
+euribor3m,Macro-economy,numeric,Euribor 3-month rate (daily)
+nr.employed,Macro-economy,numeric,Number of employees in the economy (quarterly)
+y,Target,binary,Subscribed to a term deposit? (yes / no)

@@ -1,0 +1,5 @@
+segment,customers,conversion_rate,lift,share_of_customers,share_of_subscribers,subscribers,priority
+Past-campaign responders,1515,0.638,5.665,0.037,0.208,967,Protect & prioritise
+Past-campaign non-responders,4079,0.127,1.127,0.099,0.112,518,Maintain
+Young first-time prospects,20990,0.093,0.829,0.51,0.423,1961,Reduce / re-target
+Mature first-time prospects,14592,0.082,0.726,0.354,0.257,1193,Reduce / re-target

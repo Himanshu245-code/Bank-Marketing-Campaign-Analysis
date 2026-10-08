@@ -1,0 +1,5 @@
+check,test_roc_auc
+"Random split, all features (selected model)",0.8121
+"Random split, NO macro features",0.781
+"Chronological split, all features",0.6377
+"Chronological split, NO macro features",0.6671

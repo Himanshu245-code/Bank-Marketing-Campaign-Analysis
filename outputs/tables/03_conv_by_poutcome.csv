@@ -1,0 +1,4 @@
+poutcome,customers,subscribers,conversion_rate,lift
+success,1373,894,0.6511,5.7795
+failure,4252,605,0.1423,1.2629
+nonexistent,35551,3140,0.0883,0.784

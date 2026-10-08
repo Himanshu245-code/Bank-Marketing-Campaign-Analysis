@@ -1,0 +1,9 @@
+education,customers,subscribers,conversion_rate,lift
+illiterate,18,4,0.2222,1.9725
+unknown,1730,251,0.1451,1.2878
+university.degree,12164,1669,0.1372,1.2179
+professional.course,5240,595,0.1135,1.0079
+high.school,9512,1031,0.1084,0.9621
+basic.4y,4176,428,0.1025,0.9097
+basic.6y,2291,188,0.0821,0.7284
+basic.9y,6045,473,0.0782,0.6945
